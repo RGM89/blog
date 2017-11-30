@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages これはテストです
 
 You can use the [editor on GitHub](https://github.com/RGM89/blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
